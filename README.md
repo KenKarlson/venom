@@ -1,8 +1,4 @@
 # venom
 ## Training project on html layout
-Uses:
-Html
-CSS
-JavaScript
-normalize
+Uses: Html, CSS, JavaScript, normalize
 
